@@ -71,20 +71,3 @@ Shatakshi Gupta – Project Setup & Configuration
 
 📄 License
 MIT License
-
-🔗 GitHub: https://github.com/Shatakshi-gupta-ggits/booking-engine
-
-text
-
-**Now apply it:**
-
-```bash
-# 1. Create/update README file
-# Copy the content above and save it
-
-# 2. Stage and commit
-git add README.md
-git commit -m "Add README for Airbnb booking engine"
-
-# 3. Push to main
-git push origin main
